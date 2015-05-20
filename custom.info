@@ -1,0 +1,11 @@
+name = Custom
+description = Provides a custom functionality.
+core = 7.x
+
+
+; Information added by Drupal.org packaging script on 2015-02-28
+version = "7.x-1.6"
+core = "7.x"
+project = "custom"
+datestamp = "1425149060"
+
