@@ -1,2 +1,2 @@
 <?php
-echo "git command toturials for practice";
+echo "git command toturials";
